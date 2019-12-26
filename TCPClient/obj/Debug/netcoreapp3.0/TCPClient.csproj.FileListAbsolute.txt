@@ -1,0 +1,17 @@
+C:\Users\МакишевЕ\source\repos\TCPClient\TCPClient\bin\Debug\netcoreapp3.0\TCPClient.exe
+C:\Users\МакишевЕ\source\repos\TCPClient\TCPClient\bin\Debug\netcoreapp3.0\TCPClient.deps.json
+C:\Users\МакишевЕ\source\repos\TCPClient\TCPClient\bin\Debug\netcoreapp3.0\TCPClient.runtimeconfig.json
+C:\Users\МакишевЕ\source\repos\TCPClient\TCPClient\bin\Debug\netcoreapp3.0\TCPClient.runtimeconfig.dev.json
+C:\Users\МакишевЕ\source\repos\TCPClient\TCPClient\bin\Debug\netcoreapp3.0\TCPClient.dll
+C:\Users\МакишевЕ\source\repos\TCPClient\TCPClient\bin\Debug\netcoreapp3.0\TCPClient.pdb
+C:\Users\МакишевЕ\source\repos\TCPClient\TCPClient\obj\Debug\netcoreapp3.0\TCPClient.csprojAssemblyReference.cache
+C:\Users\МакишевЕ\source\repos\TCPClient\TCPClient\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\МакишевЕ\source\repos\TCPClient\TCPClient\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\МакишевЕ\source\repos\TCPClient\TCPClient\obj\Debug\netcoreapp3.0\TCPClient_MarkupCompile.cache
+C:\Users\МакишевЕ\source\repos\TCPClient\TCPClient\obj\Debug\netcoreapp3.0\TCPClient_MarkupCompile.lref
+C:\Users\МакишевЕ\source\repos\TCPClient\TCPClient\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\МакишевЕ\source\repos\TCPClient\TCPClient\obj\Debug\netcoreapp3.0\TCPClient.g.resources
+C:\Users\МакишевЕ\source\repos\TCPClient\TCPClient\obj\Debug\netcoreapp3.0\TCPClient.AssemblyInfoInputs.cache
+C:\Users\МакишевЕ\source\repos\TCPClient\TCPClient\obj\Debug\netcoreapp3.0\TCPClient.AssemblyInfo.cs
+C:\Users\МакишевЕ\source\repos\TCPClient\TCPClient\obj\Debug\netcoreapp3.0\TCPClient.dll
+C:\Users\МакишевЕ\source\repos\TCPClient\TCPClient\obj\Debug\netcoreapp3.0\TCPClient.pdb
